@@ -1,2 +1,2 @@
-# air-quality-ivestigatiom
+# air-quality-investigation
 air quality episode via satellite data
